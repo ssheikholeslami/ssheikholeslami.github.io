@@ -5,6 +5,7 @@ picture: assets/images/1773069.jpeg
 ---
 ![Profile Image]({{ site.url }}/{{ page.picture }}){: .center-image }
 
+**Update: I will start my Ph.D. studies in the [Distributed Computing Group](https://dcatkth.github.io) of KTH in September 2019.**
 
 I'm a second-year master student of Data Science, interested in machine learning, deep learning, distributed systems, and Big Data analytics. I spent my first year of master studies at Eindhoven University of Technology (TU/e) as part of the EIT Digital Master School program. Prior to that, I was a Big Data R&D Engineer at Digikala.com (2016-2017), where I was in charge of the design, development, and implementation of Digikala.com's Big Data Analytics stack and services.
 
