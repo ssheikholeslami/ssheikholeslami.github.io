@@ -39,6 +39,6 @@ If we can somehow eliminate the need for hand-picking the hyperparameter values 
 
 Black-box optimization has been studied for years by statisticians and machine learning scientists. However, (here it comes!) the recent advances in deep learning, realized mainly thanks to the emergence of giant data sets and the wealth of computation resources and data-intensive computing techniques, has led to the need for faster, more efficient machine learning pipelines, and this requires blending ideas from the fields of distributed systems and machine learning. We want to be able to harness the full power of our clusters (GPUs are expensive!) to find the optimal (or sufficiently close to optimal) values for our hyperparameters, as fast as possible. 
 
-To this end, we aim to develop a framework and possibly a suite of algorithms specifically designed for automatic, distributed tuning of hyperparameters for machine learning and deep learning. The results of this project will be available open-source and added to the [Hops Big Data & AI platform](hops.io).
+To this end, we aim to develop a framework and possibly a suite of algorithms specifically designed for automatic, distributed tuning of hyperparameters for machine learning and deep learning. The results of this project will be available open-source and added to the [Hops Big Data & AI platform](https://hops.io).
 
 In the meantime, make sure you check out [this curated list of good resources on AutoML](https://github.com/ssheikholeslami/automl-resources) on GitHub!
