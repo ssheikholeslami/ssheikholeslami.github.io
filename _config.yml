@@ -191,6 +191,11 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - other/
+  - _pages/blog.md
+  - _posts/
+  - _projects/?_project.md
+  - assets/jupyter/blog.ipynb
 keep_files:
   - CNAME
   - .nojekyll
@@ -263,8 +268,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Sheikholeslami]
+  first_name: [Sina, S.]
 
   style: apa
   locale: en

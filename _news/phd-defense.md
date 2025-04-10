@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I successfully defended my [PhD thesis](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-360720)
+🎓 I successfully defended my [PhD thesis](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-360720)!
