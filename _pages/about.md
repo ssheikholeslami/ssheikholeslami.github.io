@@ -25,4 +25,3 @@ latest_posts:
 ---
 Hi there! I’m Sina Sheikholeslami, and I do research in machine learning systems and applications of machine learning and deep learning in various domains.
 
-# Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
