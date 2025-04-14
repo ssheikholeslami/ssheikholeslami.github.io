@@ -192,6 +192,7 @@ exclude:
   - readme_preview/
   - vendor
   - other/
+  - _pages/cv.md
   - _pages/blog.md
   - _posts/
   - _projects/?_project.md
