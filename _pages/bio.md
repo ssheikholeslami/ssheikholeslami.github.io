@@ -4,7 +4,7 @@ permalink: /bio/
 title: bio
 description:
 nav: true
-nav_order: 6
+nav_order: 2
 ---
 
 I did my PhD studies during in the Distributed Computing Group of the Division of Software and Computer Systems (SCS), EECS School of KTH, where I was advised by Vladimir Vlassov, Amir Payberah, and Jim Dowling. My main interest lies in the intersection of distributed systems, machine learning/deep learning, and data-intensive computing, as well as applications of ML/DL in different domains. I have a particular interest in finding (relatively) simple yet sound and practical solutions to challenging questions in machine learning, deep learning, and scalable computing. I also strongly believe in open science and reproducible research, and to that end all of my own work is publicly available with ready-to-execute scripts for reproducing the results.
