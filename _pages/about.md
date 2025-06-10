@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.kth.se/cs/scs'>Division of Software and Computer Systems, KTH Royal Institute of Technology.</a>
+subtitle: <a href='https://www.kth.se/cs/scs'>Postdoc, Division of Energy Systems, KTH Royal Institute of Technology.</a>
 
 profile:
   align: right
