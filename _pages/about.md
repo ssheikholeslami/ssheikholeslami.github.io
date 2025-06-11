@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.energy.kth.se/energy-systems'>Postdoc, Division of Energy Systems, KTH Royal Institute of Technology.</a>
+subtitle: <a href='https://www.kth.se/profile/sinash'>Postdoc, Division of Energy Systems, KTH Royal Institute of Technology.</a>
 
 profile:
   align: right
