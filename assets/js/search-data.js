@@ -63,6 +63,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-attended-euromlsys-2025-in-rotterdam-to-present-our-paper-on-ablationmage",
           title: 'I attended EuroMLSys 2025 in Rotterdam to present our paper on AblationMage.',
           description: "",
+          section: "News",},{id: "news-i-have-started-a-postdoc-in-the-division-of-energy-systems-of-kth-working-with-francesco-fuso-nerini-and-ricardo-vinuesa",
+          title: 'I have started a Postdoc in the Division of Energy Systems of KTH,...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
