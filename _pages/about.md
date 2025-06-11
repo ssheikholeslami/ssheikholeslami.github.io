@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.kth.se/cs/scs'>Postdoc, Division of Energy Systems, KTH Royal Institute of Technology.</a>
+subtitle: <a href='[https://www.kth.se/cs/scs](https://www.energy.kth.se/energy-systems)'>Postdoc, Division of Energy Systems, KTH Royal Institute of Technology.</a>
 
 profile:
   align: right
@@ -23,6 +23,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hi there! I’m Sina Sheikholeslami, and I do research in machine learning systems and applications of machine learning and deep learning in various domains.
+Hi there! I’m Sina Sheikholeslami, and I do research in machine learning systems and applications of machine learning and deep learning in various domains. I'm a Postdoc at the Division of Energy Systems, Department of Energy Technology at KTH, working with Francesco Fuso-Nerini and Ricardo Vinuesa on leveraging AI for Sustainability and Climate Action.
 
 I did my PhD studies in the Distributed Computing Group of the Division of Software and Computer Systems (SCS), EECS School of KTH, where I was advised by Vladimir Vlassov, Amir Payberah, and Jim Dowling. My main interest lies in the intersection of distributed systems, machine learning/deep learning, and data-intensive computing, as well as applications of ML/DL in different domains. I have a particular interest in finding (relatively) simple yet sound and practical solutions to challenging questions in machine learning, deep learning, and scalable computing. I also strongly believe in open science and reproducible research, and to that end all of my own work is publicly available with ready-to-execute scripts for reproducing the results.
