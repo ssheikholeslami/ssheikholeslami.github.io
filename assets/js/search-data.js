@@ -66,6 +66,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-have-started-a-postdoc-in-the-division-of-energy-systems-of-kth-working-with-francesco-fuso-nerini-and-ricardo-vinuesa",
           title: 'I have started a Postdoc in the Division of Energy Systems of KTH,...',
           description: "",
+          section: "News",},{id: "news-i-presented-our-beyond-2030-project-to-a-delegation-from-the-flemish-region-of-belgium-visiting-digital-futures",
+          title: 'I presented our Beyond 2030 project to a delegation from the Flemish region...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
